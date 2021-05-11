@@ -1,0 +1,550 @@
+Station ID,Company Name,Location,Industry Domain,Preferred Branches,Stipend (UG),Stipend (PG),Have Accommodation?(Y or N)
+5600,Swiggy - Software Development,Bangalore,IT,Any,0,0,N
+5608,"Persistent Systems Ltd.,Verna - Machine Learning",Goa,IT,Any,0,0,N
+5508,Arcon Tech- Machine Learning,Mumbai,IT,Any,0,0,N
+6005,National Stock Exchange,Mumbai,Computer Science,Any,0,0,N
+5649,L&T Infotech- Research and study on IIOT,Mumbai,IT,Any,0,0,N
+3653,Centre for Railway Information Systems,New delhi,Computer Science,Any,0,0,N
+5928,CEERI Pilani - Machine Learning/DSP/AI,Pilani,Electronics  ,"A3 , A7 , AA",0,0,N
+5631,Homi Bhabha Centre For Science Education - IoT - Web Development,Mumbai,IT,A7,0,0,N
+1409,Centre for Development of Telemetics (CDot),New delhi,Computer Science,"A3 , AA",0,0,N
+5514,CDAC- Web Deveopment,Pune,IT,Any,0,0,N
+5619,L & T Infotech - Research,Mumbai,IT,"C6 , AnyA7",0,0,N
+5597,UST Global - Research/Blockchain,Trivandrum,IT,Any,0,0,N
+5919,Nihon Communication Solutions Pvt. Ltd - Embebdded Systems/IoT,Bangalore,Electronics  ,"A3 , A8 , AA",0,0,N
+5528,Computer Ware - Others(Wireless Hotspot Management),New delhi,IT,Any,0,0,N
+5914,CEERI Pilani - Embedded Systems/IoT,Pilani,Electronics  ,"A3 , A8 , AA",0,0,N
+5677,NIC- Public Distribution System Operations,Hyderabad ,IT,A7,0,0,N
+5614,NIC-Web development,Hyderabad ,IT,Any,0,0,N
+5615,NIC- Mobile App development,Hyderabad ,IT,Any,0,0,N
+5623,L & T Infotech - Business Intelligence,Mumbai,IT,"C6 , AnyA7",0,0,N
+5621,L & T Infotech - Machine Learning,Mumbai,IT,"C6 , AnyA7",0,0,N
+4565,William O Neil - Data Analytics,Bangalore,Finance and Mgmt,Any,0,0,N
+5459,Americana Foods - Digital Analytics,UAE,Finance and Mgmt,Any,0,0,N
+5460,Americana Foods - Retail Modelling,UAE,Finance and Mgmt,Any,0,0,N
+5494,Americana Foods-Actionable KPI Design & communication,UAE,Finance and Mgmt,Any,0,0,N
+5944,Indian Institute Of Remote Sensing - Machine Learning/DSP/AI,Dehradun,Computer Science,"A3 , A8 , AA",0,0,N
+5921,National Institute of Oceanography -Embedded Systems/IoT,Goa,Computer Science,"A3 , A8 , AA",0,0,N
+5920,National Institute of Oceanography -Machine Learning/DSP/AI,Goa,Computer Science,"A3 , A8 , AA",0,0,N
+5599,UST Global - Machine Learning,Trivandrum,IT,Any,0,0,N
+5957,UST Global - Machine Learning/DSP/AI,Trivandrum,Computer Science,A3,0,0,N
+5883,Adani Power-Computer science,Tirora,Mechanical,"A3 , A7 , A8 , AA",0,0,N
+5929,CEERI Pilani - VLSI Design/Circuit Design,Pilani,Electronics  ,"A3 , A4 , A7 , A8 , AA",0,0,N
+5646,L&T Infotech- Business Development,Mumbai,IT,Any,0,0,N
+5955,CEERI Pilani - App/AR/VR,Pilani,Electronics  ,"A3 , A7",0,0,N
+5934,CEERI Pilani - Industrial Automation and Control ,Pilani,Electronics  ,"A3 , A8 , AA",0,0,N
+5627,IT Department - Government of Rajasthan - Internet of Things,Jaipur,IT,A7,0,0,N
+5694,COUTURE AI- Machine Learning/Deep Learning,Bangalore,IT,Any,0,0,N
+6002,Dybo,Bangalore,IT,Any,0,0,N
+4180,Bharat Electronics Limited,Bangalore,IT,"A7 , C6",0,0,N
+5935,CSIR-National Aerospace Laboratories - Machine Learning/DSP/AI,Bangalore,Electronics  ,"A3 , A7",0,0,N
+5937,Central Scientific Instruments Organization - Industrial Automation & Control,Chennai,Electronics  ,"A3 , A7",0,0,N
+2663,Regional Remote Sensing Centre,Jodhpur,Computer Science,"A3 , A7 , A8 , AA",0,0,N
+5570,"National Centre For Polar And Ocean Research- Data Analytics, Machine Learning",Goa,IT,"B4 , AnyB5",0,0,N
+5909,Army Base Workshop - Machine Learning,Pitoragarh,Mechanical,"A3 , AA",0,0,N
+5768,National Chemical Laboratory-Computer science,Pune,Govt Research Lab,A7,0,0,N
+5622,L & T Infotech - Data Analytics,Mumbai,IT,"C6 , AnyA7",0,0,N
+5620,L & T Infotech - Others,Mumbai,IT,"A7 , C6 , AnyA7",0,0,N
+2666,Happiest Minds Technologies,Bangalore,IT,Any,0,0,N
+5940,LOGIQ LABS Pvt Ltd - Machine Learning/DSP/AI,Bangalore,Computer Science,"A3 , AA",0,0,N
+5618,L & T Infotech - Web Development,Mumbai,IT,"A7 , AnyA7 , AnyC6",0,0,N
+5513,Almaconnect- General Management,New delhi,Finance and Mgmt,Any,0,0,N
+4208,NIVEA India Pvt.Ltd.,Bangalore,Finance and Mgmt,Unavailable,Unavailable,Unavailable,N
+5501,"Alma connect - customer relationship management,New delhi",New delhi,Finance and Mgmt,Any,0,0,N
+5717,Village book builders- IT networking,Usa,IT,A7,0,0,N
+5632,Hexacorp - Product Engineering,Chennai,IT,Any,0,0,N
+5545,Hexagon Capability Center India Pvt. Ltd - Machine Learning,Hyderabad ,IT,Any,0,0,N
+5626,IT Department - Government of Rajasthan - Mobile Application Development,Jaipur,IT,A7,0,0,N
+5625,IT Department - Government of Rajasthan - Web Development,Jaipur,IT,A7,0,0,N
+4255,Kerala Infrastructure and Technogy for Education,Trivandrum,IT,Any,0,0,N
+5624,Kotak Education Foundation Tech - Web Development,Mumbai,IT,Any,0,0,N
+5643,L&T Infotech- Academy and training,Mumbai,IT,Any,0,0,N
+5647,L&T Infotech- Presales,Mumbai,IT,Any,0,0,N
+5634,Hexacorp - Cloud Services,Chennai,IT,Any,0,0,N
+5538,Habbit - Product Management,Bangalore,IT,Any,0,0,N
+5984,SAMIL- Vehicle recommendation system,Delhi,Finance and Mgmt,Any,0,0,N
+5973,Swecha - Speech Recognition,Gachibowli ,IT,Any,0,0,N
+5584,Telangana e-governance - Software Development,Hyderabad ,IT,Any,0,0,N
+5975,Swecha  Machine Learning,Gachibowli ,IT,Any,0,0,N
+5989,Indira Gandhi Centre for Atomic Research (IGCAR),Kalpakkam,Govt Research Lab,"A1 , A2 , A3 , A4 , A7 , A8 , AA , AB , B2 , B5",0,0,N
+3589,CSIR-Institute of Genomics & Integrative Biology,New delhi,Health Care,"A7 , Any , B1",0,0,N
+6020,CSPL - Product Management,Ahmedabad ,IT,Any,0,0,N
+5616,Multigraphics - ERP,New delhi,IT,Any,0,0,N
+5552,VoiceQube - Software Development,Bangalore,IT,A7,0,0,N
+6009,"Department of Technical Education, Training & Skill Development",Kolkata,Finance and Mgmt,"A2 , A3 , A4 , A7 , A8 , Any",0,0,N
+5388,Purchasing Power IT & Business Solutions India LLP,Chennai,Computer Science,"A3 , A7 , A8 , AA , Any",0,0,N
+5916,TNSTC - Digital Content - Astronomy - App/AR/VR,Chennai,Computer Science,"A3 , A8 , AA",0,0,N
+5704,Suzlon Energy- Branding campaigns and strategy,Pune,Finance and Mgmt,Any,0,0,N
+5603,Purchasing Power - Web Development/UI Development,Chennai,IT,"A3 , A7 , A8 , AA , AnyA3",0,0,N
+5925,SenRa Tech Pvt Ltd - Embedded Systems/IoT,Delhi,Electronics  ,"A3 , A8 , AA",0,0,N
+5905,Agile Connects Private Ltd - Embedded Systems/IoI,Mumbai,Computer Science,"A3 , A8 , AA",0,0,N
+5936,CSIR-National Aerospace Laboratories - VLSI Design/Circuit Design,Bengaluru ,Electronics  ,"A3 , AA",0,0,N
+5420,EUPHEUS LEARNING,New Delhi,Computer Science,Any,0,0,N
+5974,Swecha  - Shell Programming,Gachibowli ,IT,Any,0,0,N
+6006,Knowcross Solutions Pvt Ltd- Tech ,New Delhi,Computer Science,A4,0,0,N
+5942,LightSpeed AI Labs Pvt Ltd - Industrial Automation & Control,Hyderabad ,Computer Science,"A3 , A8 , AA",0,0,N
+5941,LightSpeed AI Labs Pvt Ltd - Machine Learning/DSP/AI,Hyderabad ,Computer Science,"A3 , A7 , A8 , AA",0,0,N
+5663,Medcords- Business Analysis,Pune,Finance and Mgmt,Any,0,0,N
+5409,Bill Cloud Pvt Ltd,Pune,Computer Science,Any,0,0,N
+5374,Celebal Technologies Pvt Ltd ,Jaipur,Computer Science,Any,0,0,N
+5939,Madras Mindworks Pvt Ltd - App/AR/VR,Chennai,Computer Science,"A3 , A8 , AA",0,0,N
+5938,Medsupervision Pvt. Ltd - App/AR/VR,Faridabad,Computer Science,"A3 , A8 , AA",0,0,N
+5395,MSys Technologies - Tech,Chennai,Computer Science,"A7 , C6",0,0,N
+4724,Elixar Systems - APP Development,New delhi,Computer Science,Any,0,0,N
+5922,National Institute of Oceanography - Industrial Automation & Control,Goa,Computer Science,"A3 , A8 , AA",0,0,N
+5440,NPBridge Solutions Private Limited,Bangalore,Computer Science,"A3 , A7",0,0,N
+6019,Petasense Technologies Pvt. Ltd.,Bangalore,Computer Science,Any,0,0,N
+5446,Prodapt,Chennai,Computer Science,"A7 , C6",0,0,N
+5521,Greendeck Cliff.ai-Deep Learning,Indore ,IT,A7,0,0,N
+5525,Greendeck Cliff.ai-Machine Learning,Indore ,IT,A7,0,0,N
+3590,Race2Cloud Technologies Pvt. Ltd. -  Apps on Zoho Creator,Bangalore,Computer Science,Any,0,0,N
+5433,Shris  Infotech  Services Pvt Ltd,Hyderabad,Computer Science,Any,0,0,N
+3935,Silver Touch Technologies Ltd,Ahmedabad ,Computer Science,Any,0,0,N
+88,Smartlink Holdings Ltd ( Digisol Systems Ltd ),Goa,Computer Science,"A7 , C6",0,0,N
+5958,UST Global - VLSI Design/Circuit Design,Trivandrum,Computer Science,A3,0,0,N
+5381,WEBiROID Technology & Consultancy Services Pvt. Ltd.Kolkata-Content development,Kolkata,Computer Science,Any,0,0,N
+5380,WEBiROID Technology & Consultancy Services Pvt. Ltd.Kolkata-Digital Marketing,Kolkata,Computer Science,Any,0,0,N
+5503,Agile connect - Cloud Appplication Dev,Mumbai,IT,Any,0,0,N
+5502,Afour tech -Mobile App development,Pune,IT,Any,0,0,N
+5504,Agnext tech- AL/ML,Sahibzada Ajit Singh Nagar,IT,Any,0,0,N
+5505,Agnext tech-Computer Vision,Sahibzada Ajit Singh Nagar,IT,Any,0,0,N
+5506,Agnext tech-Software Development,Sahibzada Ajit Singh Nagar,IT,Any,0,0,N
+5507,Arbunize Digital Media Pvt. Ltd - Information Extraction/NLP,Delhi,IT,Any,0,0,N
+5516,Arbunize digital media- Alternate career prediction,Delhi,IT,Any,0,0,N
+5602,Arocom IT - Machine Learning,Gandhinagar ,IT,Any,0,0,N
+5517,Asanify Technologies- Business development,Kolkata,IT,Any,0,0,N
+5519,Asanify Technologies- Social media marketing,Kolkata,IT,Any,0,0,N
+5509,Big Scale tech- Mobile and Web Developemet,Surat ,IT,Any,0,0,N
+5511,Bintix Waste Research Private Limited - Tech-Software Development,Hyderabad ,IT,Any,0,0,N
+3587,Cateina Technologies Pvt. Ltd.,Mumbai,IT,"A7 , C6",0,0,N
+5970,Coditation Systems Pvt Ltd  - Machine Learning,Pune,IT,Any,0,0,N
+5969,Coditation Systems Pvt Ltd  - Software Development,Pune,IT,Any,0,0,N
+5527,Coffee Beans- AI,Bengaluru ,IT,"A7 , C6",0,0,N
+5529,Computer Ware -Others(ReportGeneration),New delhi,IT,Any,0,0,N
+5652,Contenterra Software Private Limited - Software Development,Hyderabad ,IT,Any,0,0,N
+5651,Contenterra Software Private Limited-Analytics/IOT,Hyderabad ,IT,Any,0,0,N
+5695,Convergent Technologies (Sequoia Fitness and Sports Technology Pvt Ltd) -Mobile App Development/Data Analytics,Gurgaon,IT,Any,0,0,N
+5530,Core Compete pvt ltd- others ( data Engineering -ETLL),Hyderabad ,IT,Any,0,0,N
+5531,coreCompetepvt ltd- Web app development,Hyderabad ,IT,Any,0,0,N
+6021,CSPL - Testing,Ahmedabad ,IT,Any,0,0,N
+5980,Cuemath- Business development,Bangalore,IT,Any,0,0,N
+5532,Dinero - Full stack Mobile app development,Hyderabad ,IT,"A7 , C6",0,0,N
+5547,Dinero AI- Marketing,Hyderabad ,IT,Any,0,0,N
+5648,E connect - Non Development Projects,Udaipur,IT,Any,0,0,N
+5550,Ewar Games- Market analysis,Bangalore,IT,Any,0,0,N
+5644,Expound Technivo Pvt Ltd Tech-Software Development,Mumbai,IT,Any,0,0,N
+5551,Expound Technivo- Strategy and   BD,Mumbai,IT,Any,0,0,N
+5534,Goavega-Data Analytics (ML),Bangalore,IT,Any,0,0,N
+5515,Greendeck Cliff.ai-Data Integration,Indore ,IT,A7,0,0,N
+5518,Greendeck Cliff.ai-Data Quality Insurance,Indore ,IT,A7,0,0,N
+5523,Greendeck Cliff.ai-Full Stack Development,Indore ,IT,"A3 , A7",0,0,N
+5558,Greendeck- content writing,Indore ,IT,Any,0,0,N
+5537,Habbit - Data Analytics,Bangalore,IT,A7,0,0,N
+5539,Habbit - Web Development,Bangalore,IT,A7,0,0,N
+5559,Habbit- Business development,Bangalore,IT,Any,0,0,N
+5560,Habbit- company valuation,Bangalore,IT,Any,0,0,N
+5638,Helix Techin Info Systems Pvt.Ltd - Data Analytics,Goa,IT,Any,0,0,N
+5637,Helix Techin Info Systems Pvt.Ltd - Machine Learning/NLP,Goa,IT,Any,0,0,N
+5635,Heraizen Technologies Pvt. Ltd - Web Development,Bangalore,IT,A7,0,0,N
+5633,Hexacorp - Full Stack Development,Chennai,IT,Any,0,0,N
+5586,Hyphen Supply Chain Solutions Pvt Ltd - Application Development,Noida,IT,Any,0,0,N
+4284,i-exceed technology solutions private limited,Bangalore,IT,A7,0,0,N
+5630,IDS Infotech Ltd - Data Science,Mohali ,IT,Any,0,0,N
+5587,Ineuron Intelligence - Artificial Intelligence,Bangalore,IT,Any,0,0,N
+5629,Integra Design-Online - Application Migration,New delhi,IT,A7,0,0,N
+5628,Integra Design-Online - Real Time Analytics,New delhi,IT,A7,0,0,N
+5566,LogiQLabs-Data analytics,Bangalore,IT,Any,0,0,N
+5567,MagTapp Technologies- Web development,Mumbai,IT,Any,0,0,N
+5657,Magtapp- content development,Mumbai,IT,Any,0,0,N
+5658,Magtapp- Digital marketing,Mumbai,IT,Any,0,0,N
+5661,MapmyIndia- Marketing,Bangalore,IT,Any,0,0,N
+5568,Mazo solutions- Analytics,Chennai,IT,Any,0,0,N
+5669,Medsupervision- Digital marketing,Faridabad,IT,Any,0,0,N
+5569,Medsupervision-Mobile Appl Development,Faridabad,IT,Any,0,0,N
+5617,Multigraphics - Artificial Intelligence,New delhi,IT,Any,0,0,N
+5673,Multigraphics Group- Digital marketing,New delhi,IT,Any,0,0,N
+5674,Multigraphics Group- Market Research,New delhi,IT,Any,0,0,N
+5675,Multigraphics Group- Project management,New delhi,IT,Any,0,0,N
+5676,Multigraphics Group- Student behavioral analysis,New delhi,IT,Any,0,0,N
+5572,Needl.ai- Data Analytics,Bangalore,IT,Any,0,0,N
+5613,North Eastern Space - Compiler Design/Geo Processing/Machine Learning,Umiam ,IT,"A3 , A7 , A8 , AA",0,0,N
+5611,North Eastern Space - Deep Learning/Machine Learning,Umiam ,IT,"A3 , A7 , A8 , AA",0,0,N
+5609,North Eastern Space - Software Development,Umiam ,IT,"A3 , A7 , A8 , AA",0,0,N
+5561,Habbit- content writing,Bangalore,IT,Any,0,0,N
+5563,Habbit- market research,Bangalore,IT,Any,0,0,N
+5564,Habbit- video production,Bangalore,IT,Any,0,0,N
+5574,Platifi Solutions - Full Stack Development,Bangalore,IT,"A7 , C6",0,0,N
+5689,PreludeSys- analysis of helpdesk tickets,Chennai,IT,Any,0,0,N
+5607,Preludesys- Data Analytics,Chennai,IT,"A7 , A8 , AA , AnyA3",0,0,N
+5690,PreludeSys- IT helpdesk analysis,Chennai,IT,Any,0,0,N
+5691,PreludeSys- marketing and inside sales analytics,Chennai,IT,Any,0,0,N
+5692,PreludeSys- People analytics dashboard,Chennai,IT,Any,0,0,N
+5693,PreludeSys- Presales data analytics,Chennai,IT,Any,0,0,N
+6029,Proficiency Learning Solutions - Marketing collateral creation,New delhi,IT,Any,0,0,N
+6028,Proficiency Learning Solutions - Training module development,New delhi,IT,Any,0,0,N
+5576,Race2Cloud Technologies - Software Development,Bangalore,IT,Any,0,0,N
+5699,Rashiv Cloud Solutions- Social media and research,Bangalore,IT,Any,0,0,N
+6003,Redpine Signals India Pvt. Ltd. DBA Ceremorphic India Pvt. Ltd.,Hyderabad,IT,Any,0,0,N
+5601,Sawolabs Technologies - Software Development,Bangalore,IT,Any,0,0,N
+5702,Sawolabs Technologies- Market research,Bangalore,IT,Any,0,0,N
+5981,Sawolabs- Developer Advocacy,Bangalore,IT,Any,0,0,N
+5982,SharedPro Technologies- Community Building,Vadodara ,IT,Any,0,0,N
+5972,Swecha  - Web Development,Gachibowli ,IT,Any,0,0,N
+5581,Synchrony International - Data Analytics,Hyderabad ,IT,"A3 , A7 , A8 , AA , C6",0,0,N
+4278,Takshila Learning - IT,New delhi,IT,Any,0,0,N
+4277,Takshila Learning,New delhi,IT,Unavailable,Unavailable,Unavailable,N
+5707,Takshila Learning- Business intelligence,New delhi,IT,Any,0,0,N
+5708,Takshila Learning- Operations,New delhi,IT,Any,0,0,N
+5709,Takshila learning- Value education,New delhi,IT,Any,0,0,N
+5585,Urjanet - Software Development,Chennai,IT,"A7 , C6",0,0,N
+5713,Urjanet- Quality assurance,Chennai,IT,Any,0,0,N
+5595,VComply - Data Analytics,Kolkata,IT,Any,0,0,N
+5594,VComply - Mobile Applications,Kolkata,IT,Any,0,0,N
+5592,VComply - Mobile Applications/NLP,Kolkata,IT,Any,0,0,N
+5591,VComply - Software Development,Kolkata,IT,Any,0,0,N
+5553,"Village Book Builders,Mapleton, UT, USA-Backend Development",Usa,IT,A7,0,0,N
+5555,"Village Book Builders,Mapleton, UT, USA-Front End Development",Usa,IT,A7,0,0,N
+5556,"Village Book Builders,Mapleton, UT, USA-Web Analytics and Optimizatiom",Usa,IT,A7,0,0,N
+5718,Village book builders- Operations automation,Usa,IT,A7,0,0,N
+5548,"Xarvis Intelligent Systems Lab Pvt Ltd - Tech ,Pune - Software Development",Pune,IT,Any,0,0,N
+5549,"Xarvis Intelligent Systems Lab Pvt Ltd - Tech ,Pune - UI Development",Pune,IT,Any,0,0,N
+5971,Yashoda Hospitals - Software Development,Hyderabad ,IT,A7,0,0,N
+5962," Electrono Solutions - Embedded Systems / IoT",Bangalore,Electronics  ,"A4 , A7",0,0,N
+5904,Adarsh Control & Automation Pvt. Ltd- Industrial Automation,Bangalore,Electronics  ,"A3 , A8 , AA",0,0,N
+678,Aditya Birla Insulators,Halol,Electronics  ,"A1 , A4 , A7 , C6",0,0,N
+5911,Bhaskaracharya Institute For Space Applications And Geoinformatic - Embedded Systems/IoT,Gandhinagar ,Electronics  ,"A3 , A8 , AA",0,0,N
+5512,BISAG-Software Development,Gandhinagar ,Electronics  ,"A3 , A7 , C6",0,0,N
+5912,Caliber Interconnect Solutions Pvt Ltd-Industrial Automation & Control,Coimbatore,Electronics  ,"A3 , A8 , AA",0,0,N
+5977,Domtech Robotics and Automation - Electrical Power Systems,Nashik,Electronics  ,"A3 , A8 , AA",0,0,N
+5978,Domtech Robotics and Automation - Embedded Systems/IoT,Nashik,Electronics  ,"A3 , A8 , AA",0,0,N
+5979,Domtech Robotics and Automation - VLSI design/Circuit Design,Nashik,Electronics  ,"A3 , A8 , AA",0,0,N
+5930,Dynamic Elecpower (P) Ltd - Electrical Power Systems,Bhilwara,Electronics  ,"A3 , A8",0,0,N
+5931,Dynamic Elecpower (P) Ltd - Industrial Control & Automation,Bhilwara,Electronics  ,"A3 , A8",0,0,N
+5932,E-Connect Solutions Pvt. Ltd - Embedded Systems/IoT,Udaipur,Electronics  ,"A3 , A8 , AA",0,0,N
+5421,Edutech Learning Solutions Pvt. Ltd. ,Vadodara ,Electronics  ,Any,0,0,N
+5933,"EFY Group,New Delhi - Embedded Systems / IoT",New delhi,Electronics  ,"A3 , A8 , AA",0,0,N
+5943,Electronics Corporation of India Limited - VLSI Design/Circuit Design,Hyderabad ,Electronics  ,"A3 , A8 , AA",0,0,N
+5961,Electrono Solutions - App/AR/VR  ,Bangalore,Electronics  ,"A3 , A8 , AA",0,0,N
+4721,Electrono Solutions - Electrical Power Systems ,Bangalore,Electronics  ,Any,0,0,N
+4722,Electrono Solutions - Industrial Control & Automation,Bangalore,Electronics  ,"A3 , A8 , AA",0,0,N
+5481,Indian Society for Education and Environment ,Chennai,Electronics  ,"A3 , A8 , AA",0,0,N
+5983,ISEE- Literature Research,Chennai,Electronics  ,Any,0,0,N
+5951,Kizora Software Pvt. Ltd,Nagpur,Electronics,Unavailable,Unavailable,Unavailable,N
+5761,Madras Mindworks Pvt Ltd -Electronics,Chennai,Electronics  ,"A3 , A8 , AA",0,0,N
+5923,MELSS - Industrial Automation & Control,Chennai,Electronics  ,"A3 , A7 , A8 , AA",0,0,N
+5976,MTAB Engineers Pvt Ltd - Industrial Automation and Control ,Tiruvallur,Electronics  ,AB,0,0,N
+5948,Power Grid Corporation - Electrical Power Systems,Nagpur,Electronics  ,"A3 , A8 , AA",0,0,N
+5926,Prama Instruments Private Limited - Industrial Control & Automation,Mumbai,Electronics  ,"A3 , A8 , AA",0,0,N
+5959,Pyrotech Electronics Pvt. Ltd - Embedded Systems/IoT,Udaipur,Electronics  ,"A3 , A8 , AA",0,0,N
+5960,Pyrotech Electronics Pvt. Ltd - Industrial Automation & Control,Udaipur,Electronics  ,"A3 , A8 , AA",0,0,N
+220,"Renu Electronics Pvt Ltd, Pune",Pune,Electronics,Unavailable,Unavailable,Unavailable,N
+5953,Semi- conductor laboratoty - VLSI Design/Circuit Design,Mohali ,Electronics  ,A3,0,0,N
+5952,Shalaka Connected Devices LLP - App/AR/VR,Pune,Electronics  ,"A3 , A7 , A8 , AA",0,0,N
+5924,Shalaka Connected Devices LLP - Embedded Systems/IoT,Pune,Electronics  ,"A3 , A7 , A8 , AA",0,0,N
+5918,SNS TECHNOSYS LLP - Embedded Systems/IoT,Pune,Electronics  ,"A3 , A8 , AA",0,0,N
+5917,STAR Engineers India - Embedded Systems/IoT,Pune,Electronics  ,"A3 , A8",0,0,N
+5946,Vidcentum R & D Pvt - Machine Learning/DSP/AI,Hyderabad ,Electronics  ,"A3 , A7",0,0,N
+5578,Rebus Research - Web Development,Mumbai,IT,"A3 , A7 , A8 , AA",0,0,N
+4680,"Access Livelihoods Consulting India, Ltd. - Social Sector",Hyderabad,Finance and Mgmt,Any,0,0,N
+5498,Agile connects- Market survey,Mumbai,Finance and Mgmt,Any,0,0,N
+6024,Akshara Livelihoods Private Limited - Developmental perspectives,Hyderabad ,Finance and Mgmt,Any,0,0,N
+6026,Akshara Livelihoods Private Limited - Leadership development,Hyderabad ,Finance and Mgmt,Any,0,0,N
+6025,Akshara Livelihoods Private Limited - Research,Hyderabad ,Finance and Mgmt,Any,0,0,N
+6023,Akshara Livelihoods Private Limited - Social Media,Hyderabad ,Finance and Mgmt,Any,0,0,N
+6027,Akshara Livelihoods Private Limited-Natural Farming course development,Hyderabad ,Finance and Mgmt,Any,0,0,N
+5882,Adani Power-Electronics,Tirora,Mechanical,"A3 , A8 , AA",0,0,N
+5767,Andhra Pradesh Human Resource Development institute (APHRDI)-Mechanical/Chemical/Civil,Bapatla ( Near Amaravti) ,Finance and Mgmt,"A1 , A2 , A4",0,0,N
+5766,Andhra Pradesh Human Resource Development institute (APHRDI)-Mechanical/Chemical/Civil,Sri kalahasthi,Finance and Mgmt,"A1 , A2 , A4",0,0,N
+5765,Andhra Pradesh Human Resource Development institute (APHRDI)-Mechanical/Chemical/Civil,Visakhapatnam ,Finance and Mgmt,"A1 , A2 , A4",0,0,N
+5520,Belief Systems - General Management,Chennai,Finance and Mgmt,Any,0,0,N
+5524,Beunlu - Graphic Designing,Gurgaon,Finance and Mgmt,Any,0,0,N
+5522,Beunlu - Sales and Marketing,Gurgaon,Finance and Mgmt,Any,0,0,N
+5954,BeUnlu Private Limited - App/AR/VR,Gurgaon,Finance and Mgmt,"A3 , AA",0,0,N
+5526,Beunlu- Video editing,Gurgaon,Finance and Mgmt,Any,0,0,N
+5533,Bintix Waste Research Private Limited-Data Analytics,Hyderabad ,Finance and Mgmt,B3,0,0,N
+5536,CrossBar-Content Creation,Gurgaon,Finance and Mgmt,Any,0,0,N
+5540,CrossBar-Data Analytics,Gurgaon,Finance and Mgmt,Any,0,0,N
+5541,CrossBar-DigitalMarketing,Gurgaon,Finance and Mgmt,Any,0,0,N
+5542,CrossBar-Marketing,Gurgaon,Finance and Mgmt,Any,0,0,N
+6022,CSPL - Finance,Ahmedabad ,Finance and Mgmt,Any,0,0,N
+5544,Data M Intelligence-Marketing Research,Hyderabad ,Finance and Mgmt,Any,0,0,N
+5546,Department of Posts- Financial inclusion,Hyderabad ,Finance and Mgmt,Any,0,0,N
+4405,Futures First Info Services Pvt. Ltd.- Content Development,Gurgaon,Finance and Mgmt,Any,0,0,N
+4785,Give India - Social Sector,New Delhi,Finance and Mgmt,Any,0,0,N
+5557,GMR Varalakshmi- General Management,Hyderabad ,Finance and Mgmt,Any,0,0,N
+4515,Good 2 give,New delhi,Finance and Mgmt,Unavailable,Unavailable,Unavailable,N
+5565,"Helpage India, Goa-Data Analytics",Goa,Finance and Mgmt,Any,0,0,N
+5442,Hyphen Supply Chain Solutions Pvt Ltd - Financial analysis,Noida,Finance and Mgmt,Any,0,0,N
+5441,Hyphen Supply Chain Solutions Pvt Ltd - Social Media,Noida,Finance and Mgmt,Any,0,0,N
+5573,"I Care Foundation,Mexico-Fundraising",Mexico,Finance and Mgmt,Any,0,0,N
+5577,"I Care Foundation,Mexico-Marketing for Products with cause",Mexico,Finance and Mgmt,Any,0,0,N
+5575,"I Care Foundation,Mexico-Marketing",Mexico,Finance and Mgmt,Any,0,0,N
+5579,"I Care Foundation,Mexico-Sustainability Projects",Mexico,Finance and Mgmt,Any,0,0,N
+5582,"Icare Foundation NONTECHI Care Foundation,Mexico - Social and environmental analysis",Mexico,Finance and Mgmt,Any,0,0,N
+5580,Icare Foundation- Digital initatives,Mexico,Finance and Mgmt,Any,0,0,N
+5583,Icare Foundation- Project tracker,Mexico,Finance and Mgmt,Any,0,0,N
+4339,IMARC Services Pvt. Ltd. - IT,Noida,Finance and Mgmt,Any,0,0,N
+5588,IMARC Services-Market Reasearch,Noida,Finance and Mgmt,Any,0,0,N
+4539,India Buys - IT,Hyderabad,Finance and Mgmt,Any,0,0,N
+5589,India Buys-Marketing,Hyderabad ,Finance and Mgmt,Any,0,0,N
+2671,Indian Council for Research on International Economic Relations - Electric Mobility Work Program,New delhi,Finance and Mgmt,B3,0,0,N
+5458,Indian Council for Research on International Economic Relations - Price forecasting of agricultural commodities,New Delhi,Finance and Mgmt,B3,0,0,N
+5590,Indian Council for Research on International Economic Relations- Climate change,New delhi,Finance and Mgmt,B3,0,0,N
+3639,Indian Institute of Public Administration - Secondary Research,New delhi,Finance and Mgmt,B3,0,0,N
+4520,Indian Red Cross Society - Operations- General Management,Vijayawada,Finance and Mgmt,Any,0,0,N
+5945,Indian Red Cross Society Blood Bank - App/AR/VR,New delhi,Finance and Mgmt,"A3 , A8 , AA",0,0,N
+59,Indian Red Cross Society Blood Bank - Social Sector,New delhi,Finance and Mgmt,Any,0,0,N
+5434,Indian Red Cross Society,Hyderabad,Finance and Mgmt,Any,0,0,N
+5593,IRCS Delhi General Management,New delhi,Finance and Mgmt,Any,0,0,N
+5596,IRCS Delhi wireframe design,New delhi,Finance and Mgmt,Any,0,0,N
+5598,IRCS Hyderabad General Management,Hyderabad ,Finance and Mgmt,Any,0,0,N
+6007,Knowcross Solutions Pvt Ltd - Non Tech ,New Delhi,Finance and Mgmt,Any,0,0,N
+5604,Kotak education- content writing,Mumbai,Finance and Mgmt,Any,0,0,N
+5605,Kotak education- dashboard development,Mumbai,Finance and Mgmt,Any,0,0,N
+5639,Kotak Education- infographics and video based content,Mumbai,Finance and Mgmt,Any,0,0,N
+5640,Kotak education- performance monitoring & evaluation,Mumbai,Finance and Mgmt,Any,0,0,N
+5641,Kotak education- Portfolio analysis,Mumbai,Finance and Mgmt,Any,0,0,N
+5650,Lakshyam NGO-General Management,Delhi,Finance and Mgmt,Any,0,0,N
+5656,Learning Mate Solution-Data Analytics on Higehr education,Mumbai,Finance and Mgmt,Any,0,0,N
+5653,Learning Mate- Content Architecture,Mumbai,Finance and Mgmt,Any,0,0,N
+5654,Learning Mate- Data Insights for higher education,Mumbai,Finance and Mgmt,Any,0,0,N
+5655,Learning Mate- Data Insights on K-12,Mumbai,Finance and Mgmt,Any,0,0,N
+5410,Love Without Boundaries Foundation- General Management,Kolkata,Finance and Mgmt,Any,0,0,N
+5664,Medcords- content writing,Pune,Finance and Mgmt,Any,0,0,N
+5665,Medcords- Digital marketing,Pune,Finance and Mgmt,Any,0,0,N
+5666,Medcords- Graphic designing,Pune,Finance and Mgmt,Any,0,0,N
+5667,Medcords- Quality Analysis,Pune,Finance and Mgmt,Any,0,0,N
+5668,Medcords- Research in finance,Pune,Finance and Mgmt,B3,0,0,N
+5671,Million Sparks Foundation -social media Marketing,Noida,Finance and Mgmt,Any,0,0,N
+5670,Million Sparks Foundation content creation,Noida,Finance and Mgmt,Any,0,0,N
+6008,Modish Tractor Aurkisan Pvt. Ltd ( Balwaan Agri Power Tools) ,Jaipur,Finance and Mgmt,"A4 , A7 , AB , C6",0,0,N
+5672,MSys Technologies- General Management,Chennai,Finance and Mgmt,Any,0,0,N
+5678,NIRDPM- Analytics and IT Management,Hyderabad ,Finance and Mgmt,Any,0,0,N
+5679,NIRDPM- Civil,Hyderabad ,Finance and Mgmt,A2,0,0,N
+6030,Paramartha Advisors- Marketing,New delhi,Finance and Mgmt,Any,0,0,N
+5681,Pilani AtmaNirbhar Resource Center (PARC)- Communication,Pilani,Finance and Mgmt,Any,0,0,N
+5682,Pilani AtmaNirbhar Resource Center (PARC)- Digital Literacy,Pilani,Finance and Mgmt,Any,0,0,N
+5683,Pilani AtmaNirbhar Resource Center (PARC)- Photography,Pilani,Finance and Mgmt,Any,0,0,N
+5684,Pilani AtmaNirbhar Resource Center (PARC)- Spatial mapping,Pilani,Finance and Mgmt,Any,0,0,N
+5685,Pipe Candy -Business Analytics,Chennai,Finance and Mgmt,Any,0,0,N
+5686,Pipe Candy -Industrial Research,Chennai,Finance and Mgmt,Any,0,0,N
+5687,Pipe Candy -Marketing,Chennai,Finance and Mgmt,Any,0,0,N
+5688,Prakriti Organics - Website Upgradation or enhancement,Bilaspur ,Finance and Mgmt,Any,0,0,N
+5696,Proindia Healthcare LLP- Business Development,Pune,Finance and Mgmt,Any,0,0,N
+5698,Proindia Healthcare LLP- Website enhancement,Pune,Finance and Mgmt,Any,0,0,N
+5700,Rebus Research Financial Services(Stratzy) - Business development,Mumbai,Finance and Mgmt,Any,0,0,N
+5701,Rebus Research Financial Services(Stratzy) - Marketing,Mumbai,Finance and Mgmt,Any,0,0,N
+5986,SAMIL- Car Trade exchange business,Delhi,Finance and Mgmt,Any,0,0,N
+5985,SAMIL- Finance,Delhi,Finance and Mgmt,B3,0,0,N
+5987,SAMIL- Market Research,Delhi,Finance and Mgmt,Any,0,0,N
+5949,ScoVelo Consulting - App/AR/VR,Chennai,Finance and Mgmt,"A3 , A7",0,0,N
+5703,STEM4ALL-Mathematics,Usa,Finance and Mgmt,Any,0,0,N
+5443,Hyphen Supply Chain Solutions Pvt Ltd - Coding,Noida,Computer Science,Any,0,0,N
+4554,Suzlon Foundation - Documentation and Analysis,Pune,Finance and Mgmt,Any,0,0,N
+5706,"Swami Vivekanand Gujarat Rajya Yuva Board- Research, Policy and Copywriting",Ahmedabad ,Finance and Mgmt,Any,0,0,N
+5358,"Tamil nadu Startup & Innovation Mission(Startuo TN), EDII -TN",Chennai,Finance and Mgmt,Any,0,0,N
+5710,Tamil nadu Startup & Innovation Mission- Strategy Consulting,Chennai,Finance and Mgmt,Any,0,0,N
+5711,TDF The diamond factory (I) Pvt Ltd - Business Development,Mumbai,Finance and Mgmt,Any,0,0,N
+5712,Urjanet - Data Analytics,Chennai,Finance and Mgmt,Any,0,0,N
+5721,WEBiROID Technology & Consultancy Services - Infographics design,Kolkata,Finance and Mgmt,Any,0,0,N
+5379,WEBiROID Technology & Consultancy Services Pvt. Ltd.Kolkata-Investment Research,Kolkata,Finance and Mgmt,B3,0,0,N
+5469,Xarvis Intelligent Systems Lab Pvt Ltd - Non Tech,Pune,Finance and Mgmt,Any,0,0,N
+5771,Central Leather Research Institute-Electronics,Chennai,Govt Research Lab,"A3 , A8 , AA",0,0,N
+6031,Pacify Medical Technology Pvt. Ltd - Mechatronics,Mumbai,Electronics  ,"A3 , A4 , A8 , AA , AB",0,0,N
+6032,WeSwap Mobility Solutions - App Development,Indore ,Electronics  ,"A3 , A7 , A8 , AA",0,0,N
+6033,WeSwap Mobility Solutions - Electronics,Indore ,Electronics  ,"A3 , A8 , AA",0,0,N
+6037,Green Gentem - NonTech,Germany,Finance and Mgmt,Any,0,0,N
+6038,Green Gentem - Tech,Germany,Finance and Mgmt,Any,0,0,N
+6036,Patch over Patch - Business Development,Surat ,Finance and Mgmt,Any,0,0,N
+6035,Patch over Patch - Website design,Surat ,Finance and Mgmt,Any,0,0,N
+5772,Central Leather Research Institute-Chemical(Energy Management),Chennai,Govt Research Lab,A1,0,0,N
+5773,Central Leather Research Institute-Chemical (Unit process & operation),Chennai,Govt Research Lab,A1,0,0,N
+5774,Central Leather Research Institute-Mechanical,Chennai,Govt Research Lab,A4,0,0,N
+5770,National Chemical Laboratory-Chemical (Bioinformatics),Pune,Govt Research Lab,A1,0,0,N
+5769,National Chemical Laboratory-Chemical (Process modeling),Pune,Govt Research Lab,A1,0,0,N
+3133,APS Lifetech,Pune,Health Care,B1,0,0,N
+5789,Dr.Reddy-Chemical,Hyderabad ,Health Care,A1,0,0,N
+5788,Dr.Reddy-Pharmaceutical,Hyderabad ,Health Care,A5,0,0,N
+4259,"Incozen Therapeutics Pvt. Ltd., Hyderabad",Hyderabad,Health Care,Unavailable,Unavailable,Unavailable,N
+3917,Praveen Laboratories Pvt. Ltd.,Surat ,Health Care,"A5 , B2",0,0,N
+5724,Yashoda Hospitals- Medical Inclusion in pain department,Hyderabad ,Health Care,Any,0,0,N
+5725,Yashoda Hospitals- Surgery rostering in anaesthesia department,Hyderabad ,Health Care,Any,0,0,N
+5864,AECOM Infrastructure-Civil,Mumbai,Infrastructure,A2,0,0,N
+4787,Aliens Developers Pvt. Ltd,Hyderabad ,Infrastructure,Any,0,0,N
+3731,Concept Infracon Pvt. Limited,Gurgaon,Infrastructure,A2,0,0,N
+5867,Development Consultants Pvt Ltd-Civil,Mumbai,Infrastructure,A2,0,0,N
+5869,Development Consultants Pvt Ltd-Mechanical (CEMA Std),Mumbai,Infrastructure,A4,0,0,N
+5868,Development Consultants Pvt Ltd-Mechanical (IS 11592),Mumbai,Infrastructure,A4,0,0,N
+5866,Hindustan Colas-Civil,Mumbai,Infrastructure,A2,0,0,N
+5990,Instrumentation Solution - Civil,Gurgaon,Infrastructure,A2,0,0,N
+5865,Intercontinental Consultants & Technocrats Pvt. Ltd.(ICT)-Civil,Mumbai,Infrastructure,A2,0,0,N
+5874,KEC International Ltd-Civil,Jaipur,Infrastructure,A2,0,0,N
+5872,NCCBM-Chemical,Ballabgarh,Infrastructure,A1,0,0,N
+5871,NCCBM-Civil,Ballabgarh,Infrastructure,A2,0,0,N
+5870,NCCBM-EEE/E&I/E&C,Ballabgarh,Infrastructure,"A3 , A8 , AA",0,0,N
+5873,NCCBM-Mechanical,Ballabgarh,Infrastructure,A4,0,0,N
+5991,Roads and Buildings Department - Govt of Telangana,Hyderabad ,Infrastructure,A2,0,0,N
+5988,Shell Group (HSSE) - Civil ,Bangalore,Infrastructure,A2,0,0,N
+5760,Solar Energy Corporation of India-Civi,Delhi,Infrastructure,A2,0,0,N
+52,Wadia Institute Of Himalayan Geology,Dehradun,Infrastructure,"A2 , A7",0,0,N
+5858,Awarpur Cement Works-Civil,Chandrapur,Cement,A2,0,0,N
+5857,Awarpur Cement Works-Electrical & Electronics,Chandrapur,Cement,A3,0,0,N
+5860,Awarpur Cement Works-Mechanical,Chandrapur,Cement,A4,0,0,N
+5807,Vikram cement works-Mechanical (Organizational effectiveness),Neemuch ,Cement,A4,0,0,N
+5852,Balaji Cement Works-Mechanical,Budawada,Cement,A4,0,0,N
+5847,Bela Cement Works-Electrical & Electronics,Jaypee Puram Bela- MP,Cement,A3,0,0,N
+5848,Bela Cement Works-Mechanical,Jaypee Puram Bela- MP,Cement,A4,0,0,N
+5849,Balaji Cement Works-Electrical & Electronics,Budawada,Cement,A3,0,0,N
+5844,Birla White Cement - Civil,Jodhpur,Cement,A2,0,0,N
+5845,Birla White Cement-Chemical,Jodhpur,Cement,A1,0,0,N
+5846,Birla White Cement-Mechanical,Jodhpur,Cement,A4,0,0,N
+5843,Dalla Cement Works-Chemical,Dalla,Cement,A1,0,0,N
+5842,Gujarat Cement-Chemical,Kovaya,Cement,A1,0,0,N
+5840,Gujarat Cement-Civil,Kovaya,Cement,A2,0,0,N
+5841,Gujarat Cement-Mechanical,Kovaya,Cement,A4,0,0,N
+5838,Hirmi Cement Works-Chemical,Simga,Cement,A1,0,0,N
+5839,Hirmi Cement Works-Civil,Simga,Cement,A2,0,0,N
+5748,Hirmi Cement Works-Mechanical,Simga,Cement,A4,0,0,N
+5836,Manikgarh Cement-Chemical,Chandrapur,Cement,A1,0,0,N
+5744,Manikgarh cement-Electrical & Electronics,Chandrapur,Cement,A3,0,0,N
+5837,Manikgarh Cement-Mechanical,Chandrapur,Cement,A4,0,0,N
+5833,Nathdwara Cement Works-Electrical & Electronics,Sirohi,Cement,A3,0,0,N
+5834,Nathdwara Cement Works-Chemical,Sirohi,Cement,A1,0,0,N
+5831,Rajshree Cement-Chemical,Malkhed,Cement,A1,0,0,N
+5810,Vikram cement works-Mechanical (Training modules),Neemuch ,Cement,A4,0,0,N
+5806,Vikram cement works-Mechanical (Hazard idntification),Neemuch ,Cement,A4,0,0,N
+5499,Aizant Global Analytics- Software development,Hyderabad ,Health Care,A7,0,0,N
+5809,Vikram cement works-Mechanical (Safety and enviornment),Neemuch ,Cement,A4,0,0,N
+5814,Vikram cement works-Mechanical (Utility),Neemuch ,Cement,A4,0,0,N
+5823,Sidhi Cement Works-Chemical,Sidhi (MP),Cement,A1,0,0,N
+5805,Vikram cement works-Mechanical (Maintenance),Neemuch ,Cement,A4,0,0,N
+5821,Sidhi Cement Works-Electrical & Electronics,Sidhi (MP),Cement,A3,0,0,N
+5819,Ultratech Cement Limited-Chemical,Jafrabad,Cement,A1,0,0,N
+5824,Sidhi Cement Works-Mechanical,Sidhi (MP),Cement,A4,0,0,N
+5808,Vikram cement works- Civil (Inventory management),Neemuch ,Cement,A2,0,0,N
+5818,Ultratech Cement Limited-Civil,Jafrabad,Cement,A2,0,0,N
+5815,Ultratech Cement Ltd- Electronics & Instrumentation,Kotputli,Cement,A8,0,0,N
+5804,Vikram cement works-Civil (Resource optimization),Neemuch ,Cement,A2,0,0,N
+5820,Ultratech Cement Limited-Mechanical,Jafrabad,Cement,A4,0,0,N
+5816,Ultratech Cement Ltd-Mechanical,Kotputli,Cement,A4,0,0,N
+5757,Birla Polyfibers-Chemical,Harihar,Chemical,A1,0,0,N
+5886,Adani Power-Chemical (Biogas design),Tirora,Mechanical,A1,0,0,N
+5885,Adani Power-Chemical (Lube oil quality),Tirora,Mechanical,A1,0,0,N
+5884,Adani Power-Civil,Tirora,Mechanical,A2,0,0,N
+5879,Amritha Tool Crafts-Computer science,Hyderabad ,Mechanical,A7,0,0,N
+5880,Amritha Tool Crafts-Mechanical,Hyderabad ,Mechanical,A4,0,0,N
+5906,Army Base Workshop - App/AR/VR,Pitoragarh,Mechanical,"A3 , AA",0,0,N
+5907,Army Base Workshop - Electrical Power Systems,Pitoragarh,Mechanical,"A3 , A8",0,0,N
+5908,Army Base Workshop - Industrial Automation & Control,Pitoragarh,Mechanical,"A3 , A8 , AA",0,0,N
+5759,Aditya Birla Science & Technology-Chemical,Mumbai,Chemical,A1,0,0,N
+5803,Blue star Limited-Mechanical (Air conditining and commercial refrigeration),Ogli,Mechanical,A4,0,0,N
+5791,Carborundum universal Limited-Mechanical,Chennai,Mechanical,A4,0,0,N
+4692,CCS STRATEGY SOLUTION - FLEXSIM,New delhi,Mechanical,"A4 , AB",0,0,N
+5776,Divgi TorqTransfer Systems Pvt. Ltd- Manufacturing,"Bhosari, Pune ",Mechanical,AB,0,0,N
+5777,Divgi TorqTransfer Systems Pvt. Ltd-Manufacturing,"Shivare,Pune",Mechanical,AB,0,0,N
+5967,DomTech Robotics & Automation-Mechanical,Nashik,Mechanical,A4,0,0,N
+5900,Engineers India Limited-Chemical,Gurugram ,Mechanical,A1,0,0,N
+5901,Engineers India Limited-Mechanical,Gurugram ,Mechanical,A4,0,0,N
+5899,Gates India Pvt Ltd-Chemical,Chandigarh,Mechanical,A1,0,0,N
+5898,Gates India Pvt Ltd-Mechanical/Manufacturing,Chandigarh,Mechanical,"A4 , AB",0,0,N
+4687,"Hertztech Solutions Pvt Ltd., - AI/ML",Chennai,Mechanical,Any,0,0,N
+5801,Hertztech Solutions Pvt Ltd.-Manufacturing,Chennai,Mechanical,AB,0,0,N
+5897,Hexanika-Mechanical,Pune,Mechanical,A4,0,0,N
+5799,Indian Oil Corporation Limited-Chemical,New delhi,Mechanical,A1,0,0,N
+5800,Indian Oil Corporation Limited-Mechanical,New delhi,Mechanical,A4,0,0,N
+5779,JSW Energy-Chemical (Seperation of coal and stone),Vijayanagar ,Mechanical,"A1 , A3 , A4 , A7",0,0,N
+5995,JSW Energy-EEE (Control room remote operation),Vijayanagar ,Mechanical,"A1 , A3 , A4 , A7",0,0,N
+5994,JSW Energy-Mechanical (Coal fired boiler),Vijayanagar ,Mechanical,"A1 , A3 , A4 , A7",0,0,N
+2676,Department of Agriculture,Goa,Chemical,Any,0,0,N
+5750,Hindustan Petroleum Corporation Limited-Mechanical,Mumbai,Chemical,A4,0,0,N
+6034,WeSwap Mobility Solutions - Marketing,Indore ,Electronics  ,Any,0,0,N
+5811,Vikram cement works-Electrical & Electronics,Neemuch ,Cement,A3,0,0,N
+5778,JSW Energy-Mechanical (Turbines),Vijayanagar ,Mechanical,"A1 , A3 , A4 , A7",0,0,N
+5878,Knowzies Technology Solutions-Mechanical,Pune,Mechanical,A4,0,0,N
+5896,Madras Mindworks Pvt Ltd -Mechanical,Chennai,Mechanical,A4,0,0,N
+5895,Maker&apos;s Asylum-Mechanical,Goa,Mechanical,A4,0,0,N
+5659,Maker Asylum- Sales & Marketing,Mapusa ,Mechanical,Any,0,0,N
+5660,Malhar Industries- CRM and HR Automation,Nagpur,Mechanical,Any,0,0,N
+5775,MTAB Engineers Pvt Ltd- Manufacturing,Tiruvallur,Mechanical,AB,0,0,N
+5790,Nippon Paint-Mechanical,Chennai,Mechanical,A4,0,0,N
+5893,NTPC-Chemical,Dadri,Mechanical,A1,0,0,N
+5894,NTPC-Mechanical,Dadri,Mechanical,A4,0,0,N
+5890,Plastic water lab-Electronics,Bangalore,Mechanical,"A3 , A4 , A8 , AA",0,0,N
+5891,Plastic water lab-Mechanical,Bangalore,Mechanical,A4,0,0,N
+4743,Plastic Water Labs - Actuators and Sensors in IoT,Bangalore,Mechanical,"A3 , A4 , A8",0,0,N
+5889,Preto Tooling Systems-Mechanical,Hyderabad ,Mechanical,A4,0,0,N
+5887,Shalaka Connected Devices-Mechanical/Manufacturing,Pune,Mechanical,"A4 , AB",0,0,N
+5792,Solar Energy Corporation of India-Mechanical,Delhi,Mechanical,A4,0,0,N
+5793,Vasantha Tool Crafts Pvt Limited-Mechanical,Hyderabad ,Mechanical,A4,0,0,N
+5796,Viram Technologies Enterprises - Mechanical (Automation design),Pune,Mechanical,A4,0,0,N
+5794,Viram Technologies Enterprises - Mechanical (Finite Element Analysis),Pune,Mechanical,A4,0,0,N
+5795,Viram Technologies Enterprises - Mechanical (Piping and thermal analysis),Pune,Mechanical,A4,0,0,N
+5798,Viram Technologies Enterprises - Mechanical (Process equipment design),Pune,Mechanical,A4,0,0,N
+5797,Viram Technologies Enterprises - Mechanical (structure analysis),Pune,Mechanical,A4,0,0,N
+5359,Yazaki India Private Ltd.,Bengaluru ,Mechanical,"A3 , A4",0,0,N
+5781,JSW Steel-Chemical (Carbon technology landscaping),Vijayanagar ,Steel,"A1 , A4 , A7",0,0,N
+5996,JSW Steel-Chemical (Hydrogen technology landscaping),Vijayanagar ,Steel,"A1 , A3 , A7",0,0,N
+6000,JSW Steel-Computer (ANN),Vijayanagar ,Steel,"A1 , A4 , A7",0,0,N
+6001,JSW Steel-Computer (ML),Vijayanagar ,Steel,"A1 , A4 , A7",0,0,N
+5997,JSW Steel-Computer (Property prediction model),Vijayanagar ,Steel,"A1 , A4 , A7",0,0,N
+5780,JSW Steel-Mechanical (Ansys simulation model),Vijayanagar ,Steel,"A1 , A4 , A7",0,0,N
+5998,JSW Steel-Mechanical (Optimization technique),Vijayanagar ,Steel,"A1 , A4 , A7",0,0,N
+5999,JSW Steel-Mechanical (Statistical model),Vijayanagar ,Steel,"A1 , A4 , A7",0,0,N
+5782,Ramco Steels Pvt. Ltd- Manufacturing,Faridabad,Steel,AB,0,0,N
+5786,Rourkela Steel Plant-Chemical,Rourkela ,Steel,A1,0,0,N
+5785,Rourkela Steel Plant-Civil,Rourkela ,Steel,A2,0,0,N
+5783,Rourkela Steel Plant-EEE/Instrumentation/communication,Rourkela ,Steel,"A3 , A8 , AA",0,0,N
+5787,Rourkela Steel Plant-Mechanical,Rourkela ,Steel,A4,0,0,N
+5758,Birla Polyfibers-Mechanical,Harihar,Chemical,A4,0,0,N
+5755,Century Rayon-Chemical,Mumbai,Chemical,A1,0,0,N
+5754,Century Rayon-Electrical & Electronics,Mumbai,Chemical,A3,0,0,N
+6046,Agrix Agrotech Private Limited  - Electronics,New delhi,Electronics  ,"A3 , A7 , A8 , AA",0,0,N
+4650,AURUM SMART TECH - DSP (Hyderabad) ,Pune,Electronics  ,Any,0,0,N
+6043,Bajaj Auto Limited ,Pune,Mechanical,"A3 , A4 , A8 , AA , AB",0,0,N
+5756,Century Rayon-Mechanical,Mumbai,Chemical,A4,0,0,N
+5737,Chemical & Mineral Industries Pvt Limited-Chemical (Unit process & operation),Jodhpur,Chemical,A1,0,0,N
+5738,Chemical & Mineral Industries Pvt Limited-Mechanical (Quick lime process),Jodhpur,Chemical,A4,0,0,N
+5736,Chemical & Mineral Industries Pvt Limited-Mechanical (Vertical lime kiln),Jodhpur,Chemical,A4,0,0,N
+5735,Chemical & Mineral Industries Pvt Limited-Mechanical(Calcite grinding),Jodhpur,Chemical,A4,0,0,N
+5753,Chemsys Process Engineering Pvt Limited-Chemical (Unit process & operation),Pune,Chemical,A1,0,0,N
+5751,Chemsys Process Engineering Pvt Limited_Chemical (Process improvement & utility calculations),Pune,Chemical,A1,0,0,N
+5752,Chemsys Process Engineering Pvt Limited_Chemical (Process modeling & simulation),Pune,Chemical,A1,0,0,N
+5733,Grasim Industries Limited-Chemical (Unit process & operation),Nagda,Chemical,A1,0,0,N
+5734,Grasim Industries Limited-Mechanical (Energy Management),Nagda,Chemical,A4,0,0,N
+5732,Grasim Industries Limited-Mechanical (Safety and Enviornment),Nagda,Chemical,A4,0,0,N
+5835,Nathdwara Cement Works-Mechanical,Sirohi,Cement,A4,0,0,N
+5746,Indian Institute of Petroleum-Chemical (Enviornment Engg),Dehradun,Chemical,A1,0,0,N
+5747,Indian Institute of Petroleum-Chemical (Unit process & operation),Dehradun,Chemical,A1,0,0,N
+5745,Indian Institute of Petroleum-Mechanical (Energy Management),Dehradun,Chemical,A4,0,0,N
+5742,Nandi Group ( Sujala Pipe Pvt. Ltd )-Chemical,Nandyal,Chemical,A1,0,0,N
+5741,Nandi Group ( Sujala Pipe Pvt. Ltd )-Civil,Nandyal,Chemical,A2,0,0,N
+5739,Nandi Group ( Sujala Pipe Pvt. Ltd )-Electronics & Instrumentation,Nandyal,Chemical,"A3 , A8",0,0,N
+5740,Nandi Group ( Sujala Pipe Pvt. Ltd )-Manufacturing,Nandyal,Chemical,AB,0,0,N
+5730,Sud-Chemie India Pvt.Ltd-Catalysis and carbon capture,Vadodara ,Chemical,"A1 , B2",0,0,N
+5727,Sud-Chemie India Pvt.Ltd-CFD analysis,Vadodara ,Chemical,A1,0,0,N
+5731,Sud-Chemie India Pvt.Ltd-Design of extruder and molecular sieves,Vadodara ,Chemical,"A1 , B2",0,0,N
+5729,Sud-Chemie India Pvt.Ltd-Kinetic modeling,Vadodara ,Chemical,A1,0,0,N
+5728,Sud-Chemie India Pvt.Ltd-Zeolites,Vadodara ,Chemical,"A1 , B2",0,0,N
+5812,Vikram cement works-Mechanical (Digitalization),Neemuch ,Cement,A4,0,0,N
+5851,Balaji Cement Works-Chemical,Budawada,Cement,A1,0,0,N
+5830,Rajshree Cement-Civil,Malkhed,Cement,A2,0,0,N
+5829,Rajshree Cement-Electrical & Electronics,Malkhed,Cement,A3,0,0,N
+5832,Rajshree Cement-Mechanical,Malkhed,Cement,A4,0,0,N
+5827,Rawan Cement Works-Chemical,raipur,Cement,A1,0,0,N
+5826,Rawan Cement Works-Civil,raipur,Cement,A2,0,0,N
+5828,Rawan Cement Works-Mechanical,raipur,Cement,A4,0,0,N
+5817,Ultratech Cement Limited-Electrical & Electronics,Jafrabad,Cement,A3,0,0,N
+5825,Rawan Cement Works-Electrical & Electronics,raipur,Cement,A3,0,0,N
+5854,Baga Cement Works-Civil,Solan,Cement,A2,0,0,N
+5856,Baga Cement Works-Chemical,Solan,Cement,A1,0,0,N
+5853,Baga Cement Works-Electrical & Electronics,Solan,Cement,A3,0,0,N
+5861,Aditya Cement Works-Civil,Shambupura,Cement,A2,0,0,N
+5855,Baga Cement Works-Mechanical,Solan,Cement,A4,0,0,N
+5850,Balaji Cement Works-Civil,Budawada,Cement,A2,0,0,N
+5862,Aditya Cement Works-Chemical,Shambupura,Cement,A1,0,0,N
+5863,Aditya Cement Works-Mechanical,Shambupura,Cement,A4,0,0,N
+5859,Awarpur Cement Works-Chemical,Chandrapur,Cement,A1,0,0,N
+5881,Adani Power-Mechanical,Tirora,Mechanical,A4,0,0,N
+5500,Alankaar India- Digital Marketing,Gurgaon,Finance and Mgmt,Any,0,0,N
+5822,Sidhi Cement Works-Civil,Sidhi (MP),Cement,A2,0,0,N
+5915,Vikram Cement Works - Industrial Automation & Control,Neemuch ,Cement,"A3 , A8",0,0,N
