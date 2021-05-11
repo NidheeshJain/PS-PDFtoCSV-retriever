@@ -49,7 +49,7 @@ for element in array:
                     else:
                         row_no -= 1
  
-with open('new1_sorted.csv', 'w', newline='') as file:
+with open('StationDetails.csv', 'w', newline='') as file:
     writer = csv.writer(file)
     writer.writerow(["Station ID",	"Company Name",	"Location",	"Industry Domain",	"Preferred Branches",	"Stipend (UG)",	"Stipend (PG)",	"Have Accommodation?(Y or N)"])
     writer.writerows(final_array)
