@@ -34,6 +34,7 @@ for element in array:
                 found = True
     if not found:
         print (f"{element} was not found automatically. Please locate it manually in base CSV.")
+        print ("If not present in base csv, please enter -1")
         row_no = int(input('Enter row number from base csv'))
 
         if row_no > 0:
